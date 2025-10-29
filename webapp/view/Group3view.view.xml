@@ -6,5 +6,10 @@
             id="btnEdrian" 
             text="Edrian Apilan"
             type="Emphasized" />
+
+        <Button 
+            id="btnMarijo" 
+            text="Marijo"
+            type="Emphasized" />
     </Page>
 </mvc:View>
