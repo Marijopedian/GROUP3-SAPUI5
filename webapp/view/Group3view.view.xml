@@ -2,6 +2,8 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
+
+
         <Button 
             id="btnEdrian" 
             text="Edrian Apilan"
@@ -11,5 +13,12 @@
             id="btnMarijo" 
             text="Marijo"
             type="Emphasized" />
+          <Button 
+            id="btnLanz" 
+            text="Lanz Corro"
+            type="Accept"/>
+
+
+
     </Page>
 </mvc:View>
