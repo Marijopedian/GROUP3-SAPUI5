@@ -9,6 +9,10 @@
             text="Edrian Apilan"
             type="Emphasized" />
 
+        <Button 
+            id="btnMarijo" 
+            text="Marijo"
+            type="Emphasized" />
           <Button 
             id="btnLanz" 
             text="Lanz Corro"
